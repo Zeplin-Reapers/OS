@@ -1,7 +1,0 @@
-<folder name="os">
-	<file name="files.xml">os/files.xml</file>
-	<file name="boot.py">os/boot.py</file>
-	<folder name="file">
-		<file name="file.txt">os/file/file.txt</file>
-	</folder>
-</folder>
